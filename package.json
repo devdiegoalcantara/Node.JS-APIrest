@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "node.js-apirest",
+  "version": "1.0.0",
+  "main": "index.js", 
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devdiegoalcantara/Node.JS-APIrest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devdiegoalcantara/Node.JS-APIrest/issues"
+  },
+  "homepage": "https://github.com/devdiegoalcantara/Node.JS-APIrest#readme",
+  "description": ""
+}
