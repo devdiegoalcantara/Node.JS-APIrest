@@ -5,6 +5,7 @@
   },
   "name": "node.js-apirest",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -21,6 +22,5 @@
   "bugs": {
     "url": "https://github.com/devdiegoalcantara/Node.JS-APIrest/issues"
   },
-  "homepage": "https://github.com/devdiegoalcantara/Node.JS-APIrest#readme",
-  "description": ""
+  "homepage": "https://github.com/devdiegoalcantara/Node.JS-APIrest#readme"
 }
