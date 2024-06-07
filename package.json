@@ -1,13 +1,14 @@
 {
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "nodemon": "^3.0.1"
   },
   "name": "node.js-apirest",
   "version": "1.0.0",
-  "main": "index.js", 
+  "main": "index.js",
   "type": "module",
-  "devDependencies": {},
   "scripts": {
+    "dev": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
